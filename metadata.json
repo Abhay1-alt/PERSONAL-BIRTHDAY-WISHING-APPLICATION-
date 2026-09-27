@@ -1,0 +1,6 @@
+{
+  "name": "NoonWish — 12 PM Birthday Dispatcher",
+  "description": "Precision birthday wish scheduler and automated 12:00 PM dispatcher integrated with Google Calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
